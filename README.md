@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-## Familiar Techs
+## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=django,nodejs)](https://skillicons.dev)
