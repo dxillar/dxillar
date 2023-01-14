@@ -9,3 +9,6 @@
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,vim)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
+
+![](https://komarev.com/ghpvc/?username=dxillar&color=green)
